@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     void Start()
     {
-        
+        Debug.Log("Github Test");
     }
 
     void Update()
